@@ -1,0 +1,368 @@
+{
+    "List": [
+        {
+            "Key": 48,
+            "Value": "0"
+        },
+        {
+            "Key": 49,
+            "Value": "1"
+        },
+        {
+            "Key": 50,
+            "Value": "2"
+        },
+        {
+            "Key": 51,
+            "Value": "3"
+        },
+        {
+            "Key": 52,
+            "Value": "4"
+        },
+        {
+            "Key": 53,
+            "Value": "5"
+        },
+        {
+            "Key": 54,
+            "Value": "6"
+        },
+        {
+            "Key": 55,
+            "Value": "7"
+        },
+        {
+            "Key": 56,
+            "Value": "8"
+        },
+        {
+            "Key": 57,
+            "Value": "9"
+        },
+        {
+            "Key": 81,
+            "Value": "Q"
+        },
+        {
+            "Key": 87,
+            "Value": "W"
+        },
+        {
+            "Key": 69,
+            "Value": "E"
+        },
+        {
+            "Key": 82,
+            "Value": "R"
+        },
+        {
+            "Key": 84,
+            "Value": "T"
+        },
+        {
+            "Key": 89,
+            "Value": "Y"
+        },
+        {
+            "Key": 85,
+            "Value": "U"
+        },
+        {
+            "Key": 73,
+            "Value": "I"
+        },
+        {
+            "Key": 79,
+            "Value": "O"
+        },
+        {
+            "Key": 80,
+            "Value": "P"
+        },
+        {
+            "Key": 65,
+            "Value": "A"
+        },
+        {
+            "Key": 83,
+            "Value": "S"
+        },
+        {
+            "Key": 68,
+            "Value": "D"
+        },
+        {
+            "Key": 70,
+            "Value": "F"
+        },
+        {
+            "Key": 71,
+            "Value": "G"
+        },
+        {
+            "Key": 72,
+            "Value": "H"
+        },
+        {
+            "Key": 74,
+            "Value": "J"
+        },
+        {
+            "Key": 75,
+            "Value": "K"
+        },
+        {
+            "Key": 76,
+            "Value": "L"
+        },
+        {
+            "Key": 90,
+            "Value": "Z"
+        },
+        {
+            "Key": 88,
+            "Value": "X"
+        },
+        {
+            "Key": 67,
+            "Value": "C"
+        },
+        {
+            "Key": 86,
+            "Value": "V"
+        },
+        {
+            "Key": 66,
+            "Value": "B"
+        },
+        {
+            "Key": 78,
+            "Value": "N"
+        },
+        {
+            "Key": 77,
+            "Value": "M"
+        },
+        {
+            "Key": 16777264,
+            "Value": "F1"
+        },
+        {
+            "Key": 16777265,
+            "Value": "F2"
+        },
+        {
+            "Key": 16777266,
+            "Value": "F3"
+        },
+        {
+            "Key": 16777267,
+            "Value": "F4"
+        },
+        {
+            "Key": 16777268,
+            "Value": "F5"
+        },
+        {
+            "Key": 16777269,
+            "Value": "F6"
+        },
+        {
+            "Key": 16777270,
+            "Value": "F7"
+        },
+        {
+            "Key": 16777271,
+            "Value": "F8"
+        },
+        {
+            "Key": 16777272,
+            "Value": "F9"
+        },
+        {
+            "Key": 16777273,
+            "Value": "F10"
+        },
+        {
+            "Key": 16777274,
+            "Value": "F11"
+        },
+        {
+            "Key": 16777275,
+            "Value": "F12"
+        },
+        {
+            "Key": 16777216,
+            "Value": "Escape"
+        },
+        {
+            "Key": 16777217,
+            "Value": "Tab"
+        },
+        {
+            "Key": 16777218,
+            "Value": "Backtab"
+        },
+        {
+            "Key": 16777219,
+            "Value": "Backspace"
+        },
+        {
+            "Key": 16777220,
+            "Value": "Enter"
+        },
+        {
+            "Key": 16777221,
+            "Value": "Enter"
+        },
+        {
+            "Key": 16777222,
+            "Value": "Insert"
+        },
+        {
+            "Key": 16777223,
+            "Value": "Delete"
+        },
+        {
+            "Key": 16777224,
+            "Value": "Pause"
+        },
+        {
+            "Key": 16777225,
+            "Value": "Print"
+        },
+        {
+            "Key": 16777226,
+            "Value": "SysReq"
+        },
+        {
+            "Key": 16777227,
+            "Value": "Clear"
+        },
+        {
+            "Key": 16777232,
+            "Value": "Home"
+        },
+        {
+            "Key": 16777233,
+            "Value": "End"
+        },
+        {
+            "Key": 16777234,
+            "Value": "Left"
+        },
+        {
+            "Key": 16777235,
+            "Value": "Up"
+        },
+        {
+            "Key": 16777236,
+            "Value": "Right"
+        },
+        {
+            "Key": 16777237,
+            "Value": "Down"
+        },
+        {
+            "Key": 16777238,
+            "Value": "PageUp"
+        },
+        {
+            "Key": 16777239,
+            "Value": "PageDown"
+        },
+        {
+            "Key": 16777248,
+            "Value": "Shift"
+        },
+        {
+            "Key": 16777249,
+            "Value": "Control"
+        },
+        {
+            "Key": 16777250,
+            "Value": "Meta"
+        },
+        {
+            "Key": 16777251,
+            "Value": "Alt"
+        },
+        {
+            "Key": 16777252,
+            "Value": "CapsLock"
+        },
+        {
+            "Key": 16777253,
+            "Value": "NumLock"
+        },
+        {
+            "Key": 16777254,
+            "Value": "ScrollLock"
+        },
+        {
+            "Key": 43,
+            "Value": "Plus"
+        },
+        {
+            "Key": 44,
+            "Value": "Comma"
+        },
+        {
+            "Key": 45,
+            "Value": "Minus"
+        },
+        {
+            "Key": 46,
+            "Value": "Period"
+        },
+        {
+            "Key": 47,
+            "Value": "Slash"
+        },
+        {
+            "Key": 32,
+            "Value": "Space"
+        },
+        {
+            "Key": 96,
+            "Value": "QuoteLeft"
+        },
+        {
+            "Key": 61,
+            "Value": "Equal"
+        },
+        {
+            "Key": 123,
+            "Value": "BraceLeft"
+        },
+        {
+            "Key": 125,
+            "Value": "BraceRight"
+        },
+        {
+            "Key": 59,
+            "Value": "Semicolon"
+        },
+        {
+            "Key": 39,
+            "Value": "Apostrophe"
+        },
+        {
+            "Key": 92,
+            "Value": "Backslash"
+        },
+        {
+            "Key": 91,
+            "Value": "BracketLeft"
+        },
+        {
+            "Key": 93,
+            "Value": "BracketRight"
+        },
+        {
+            "Key": 42,
+            "Value": "Asterisk"
+        }
+    ]
+}

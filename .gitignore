@@ -1,0 +1,15 @@
+QTEditor
+Log4QT\Debug
+Log4QT\Debug.win32
+Log4QT\GeneratedFiles
+Log4QT\Release
+Log4QT\Release.win32
+QTEditor\Castle
+QTEditor\Debug.win32
+QTEditor\Release.win32
+QTEditor\TexturePacker
+QTEditor\Win32
+QTEditor\QTEditor\Debug.win32
+QTEditor\QTEditor\GeneratedFiles
+QTEditor\QTEditor\Release
+QTEditor\QTEditor\Release.win32

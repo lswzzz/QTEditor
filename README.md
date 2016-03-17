@@ -1,0 +1,4 @@
+QT地图编辑器	基于cocos3.9开发
+运行环境win32 or mac
+使用方法：将cocos3.9的cocos2d文件夹拷贝到GameEditor文件夹下复制QTEditor\source_code中的所有文件覆盖到cocos2d\cocos文件夹下
+编译 运行即可

@@ -1,0 +1,1072 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{9e86cf23-f1d2-496b-bb74-6869830ccab8}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{b7c1b802-7fd8-4d20-b87f-bade3c05cdf6}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{c9b6d89d-e95c-4f72-b7f8-fb2d6b5a42e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass">
+      <UniqueIdentifier>{2075d35e-e7c3-4ff6-b085-ee44aae3d951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass">
+      <UniqueIdentifier>{cf7beda9-4911-4d4d-9769-5047f9590ef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{76ca8c8d-0575-4231-a3bf-88798e710dca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\Base">
+      <UniqueIdentifier>{ba785d31-3910-46b8-bcf0-49ef194be3a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\DrawSprite">
+      <UniqueIdentifier>{7018ac27-08e2-4d79-adb0-f40fa145ca5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\ForeManager">
+      <UniqueIdentifier>{cc9a38b9-c6ce-4a04-9945-254d8615eba8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\Global">
+      <UniqueIdentifier>{2010b62e-fd21-4169-8bd0-8ed3c70be421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\Unused">
+      <UniqueIdentifier>{4b541b79-ea62-4aec-9b38-8abf97c89c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\WinEvent">
+      <UniqueIdentifier>{cd1c212b-6787-4186-85d7-0fd6a09befec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\AnimationView">
+      <UniqueIdentifier>{c4780301-f8ba-48a6-b1fe-871e80ce452b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\ConfigView">
+      <UniqueIdentifier>{6f61d1a9-9bd2-402e-9bb2-195c4dbfd519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\ControllerView">
+      <UniqueIdentifier>{84ee1487-4a68-46c0-a6cb-dd42f79a30cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\ExteralView">
+      <UniqueIdentifier>{afc216be-1bd2-4e20-98f1-e65e224e2e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\LayerManagerView">
+      <UniqueIdentifier>{d6881371-34c1-4675-976e-d7c3b433ed31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\QTBase">
+      <UniqueIdentifier>{513b3d48-8498-4aee-88bb-7a3a8e6a0507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\ResourceView">
+      <UniqueIdentifier>{8db7f8f7-b798-4961-9829-f7bfcc9bbb0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\TaskQueue">
+      <UniqueIdentifier>{bee57399-df85-469b-8dea-a0f76cb728c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\TemplateView">
+      <UniqueIdentifier>{27ce1b60-c138-43f3-ac6d-655cc3ebc6fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\TexturePackerView">
+      <UniqueIdentifier>{54038346-fb32-455c-99ea-17167ca2685b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\Thread">
+      <UniqueIdentifier>{b3903ddd-7d84-4d1b-9505-13b9929004e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\TriggerView">
+      <UniqueIdentifier>{bbb3d75d-e7a9-4efb-8356-e851ae9d566b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\Unused">
+      <UniqueIdentifier>{bc13d710-fa49-426b-9ad8-911044ac7ed9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CocClass\Grid">
+      <UniqueIdentifier>{a57e3b36-ef10-4c5e-b4b2-80303284ba49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QTClass\KeyboardMapping">
+      <UniqueIdentifier>{1e2ddeb2-27cf-48fc-a759-2bf441d0e3b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_qteditor.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ByteArray.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CCQApplication.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_CCQApplication.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_CCQApplication.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FontChina.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StringUtil.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utils\MacTransViewPos.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utils\MyLogger.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utils\MySqlLiteManager.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Base\CancelSaveData.cpp">
+      <Filter>CocClass\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Base\CocEventCenter.cpp">
+      <Filter>CocClass\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Base\DragImageSprite.cpp">
+      <Filter>CocClass\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Base\MD5.cpp">
+      <Filter>CocClass\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\AddSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\AdsorbentLayer.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\DeleteSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\DrawNodeSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\EdgeSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\SelectDirectionSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\TouchManager.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\DrawSprite\TouchSprite.cpp">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\EntityImageSprite.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\ForeManager.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\ImageSprite.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\ImageSpriteLayer.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\ImageTextureManager.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\LayerMoveRangeManage.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\LoadExterModel.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\MultiselectSprite.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\Role3D.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Global\Global.cpp">
+      <Filter>CocClass\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Global\GlobalConstant.cpp">
+      <Filter>CocClass\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Global\ThreadConst.cpp">
+      <Filter>CocClass\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\WinEvent\WinEventDispatcher.cpp">
+      <Filter>CocClass\WinEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Unused\BMFontLayer.cpp">
+      <Filter>CocClass\Unused</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\AnimationView\AnimationView.cpp">
+      <Filter>QTClass\AnimationView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_AnimationView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_AnimationView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ConfigView\ConfigView.cpp">
+      <Filter>QTClass\ConfigView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ConfigView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ConfigView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\ActionView.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ActionView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ActionView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\AIProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_AIProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_AIProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\BaseProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_BaseProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_BaseProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\BoxProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_BoxProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_BoxProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\CircleProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_CircleProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_CircleProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\ControlView.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ControlView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ControlView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\EntityProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_EntityProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_EntityProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\FilterProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_FilterProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_FilterProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\LayerBaseProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_LayerBaseProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_LayerBaseProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\MonsterDropProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MonsterDropProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MonsterDropProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\MonsterProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MonsterProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MonsterProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\MoveProperties.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MoveProperties.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MoveProperties.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ControllerView\SimpleTriggerView.cpp">
+      <Filter>QTClass\ControllerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_SimpleTriggerView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_SimpleTriggerView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ExteralView\ExteralTreeWidget.cpp">
+      <Filter>QTClass\ExteralView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ExteralTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ExteralTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ExteralView\ExteralView.cpp">
+      <Filter>QTClass\ExteralView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ExteralView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ExteralView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ExteralView\ExterImageListWidget.cpp">
+      <Filter>QTClass\ExteralView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ExterImageListWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ExterImageListWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\LayerManagerView\LayerManagerTreeWidget.cpp">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_LayerManagerTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_LayerManagerTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\LayerManagerView\LayerManagerWidget.cpp">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_LayerManagerWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_LayerManagerWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\LayerManagerView\selectsprite.cpp">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_selectsprite.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_selectsprite.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\LayerManagerView\spriteitemmanagerdialog.cpp">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_spriteitemmanagerdialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_spriteitemmanagerdialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\LayerManagerView\SpriteTreeItem.cpp">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Unused\infodialog.cpp">
+      <Filter>QTClass\Unused</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_infodialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_infodialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Unused\triggerdialog.cpp">
+      <Filter>QTClass\Unused</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_triggerdialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_triggerdialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TriggerView\TriggerItem.cpp">
+      <Filter>QTClass\TriggerView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TriggerView\TriggerView.cpp">
+      <Filter>QTClass\TriggerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_TriggerView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_TriggerView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TriggerView\TriggerWidget.cpp">
+      <Filter>QTClass\TriggerView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Thread\OutputPackerStaticThread.cpp">
+      <Filter>QTClass\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Thread\OutputPackerThread.cpp">
+      <Filter>QTClass\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Thread\PackerCommandThread.cpp">
+      <Filter>QTClass\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Thread\RunTimePackerThread.cpp">
+      <Filter>QTClass\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\Thread\Test1.cpp">
+      <Filter>QTClass\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TexturePackerView\OutputInfo.cpp">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TexturePackerView\PlistTool.cpp">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TexturePackerView\TexturePackerView.cpp">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_TexturePackerView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_TexturePackerView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TemplateView\repairtemplatedialog.cpp">
+      <Filter>QTClass\TemplateView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_repairtemplatedialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_repairtemplatedialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TemplateView\TemplateListItem.cpp">
+      <Filter>QTClass\TemplateView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TemplateView\TemplateListWidget.cpp">
+      <Filter>QTClass\TemplateView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_TemplateListWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_TemplateListWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TemplateView\TemplateView.cpp">
+      <Filter>QTClass\TemplateView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_TemplateView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_TemplateView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TaskQueue\ConcurrentTaskQueue.cpp">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TaskQueue\Task_Implement.cpp">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\TaskQueue\TaskThread_Queue.cpp">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ImageListWidget.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ImageListWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ImageListWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ImageTreeWidget.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ImageTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ImageTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ImgTransPath.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ResMap.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\resmodifydirdialog.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_resmodifydirdialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_resmodifydirdialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ResModifyTreeWidget.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ResModifyTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ResModifyTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\ResourceView.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ResourceView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ResourceView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\BaseDockWidget.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_BaseDockWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_BaseDockWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\ControlBaseDockWidget.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ControlBaseDockWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ControlBaseDockWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\convertMapToJsonFile.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\OutputSpriteData.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\QSelectedCheckBox.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_QSelectedCheckBox.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_QSelectedCheckBox.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\qteditor.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qteditor.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qteditor.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\QTInput.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\QTOutput.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\QTBase\TemplateValueGenerator.cpp">
+      <Filter>QTClass\QTBase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\BaseBlock.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\BoxBody.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\FluidBody.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\GridManagerLayer.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\GridSpriteLayer.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\ItalicBody.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\Grid\MultiselectBlock.cpp">
+      <Filter>CocClass\Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\KeyboardMapping\keyboardmappingdialog.cpp">
+      <Filter>QTClass\KeyboardMapping</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_keyboardmappingdialog.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_keyboardmappingdialog.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\KeyboardMapping\GenerateKeyBoardMappingcpp.cpp">
+      <Filter>QTClass\KeyboardMapping</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\KeyboardMapping\InvincibleFriendClass.cpp">
+      <Filter>QTClass\KeyboardMapping</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\AnimationView\AnimationTreeWidget.cpp">
+      <Filter>QTClass\AnimationView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_AnimationTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_AnimationTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\QTClass\ResourceView\BaseResTreeWidget.cpp">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_BaseResTreeWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_BaseResTreeWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CocClass\ForeManager\LayerAnimationCache.cpp">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="qteditor.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="qteditor.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="infodialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="repairtemplatedialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="resmodifydirdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="selectsprite.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="spriteitemmanagerdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="triggerdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\CCQApplication.h">
+      <Filter>Classes</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\AnimationView\AnimationView.h">
+      <Filter>QTClass\AnimationView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ConfigView\ConfigView.h">
+      <Filter>QTClass\ConfigView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\ActionView.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\AIProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\BaseProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\BoxProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\CircleProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\ControlView.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\EntityProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\FilterProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\LayerBaseProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\MonsterDropProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\MonsterProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\MoveProperties.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ControllerView\SimpleTriggerView.h">
+      <Filter>QTClass\ControllerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ExteralView\ExteralTreeWidget.h">
+      <Filter>QTClass\ExteralView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ExteralView\ExteralView.h">
+      <Filter>QTClass\ExteralView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ExteralView\ExterImageListWidget.h">
+      <Filter>QTClass\ExteralView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\LayerManagerView\LayerManagerTreeWidget.h">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\LayerManagerView\LayerManagerWidget.h">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\LayerManagerView\selectsprite.h">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\LayerManagerView\spriteitemmanagerdialog.h">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\Unused\infodialog.h">
+      <Filter>QTClass\Unused</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\Unused\triggerdialog.h">
+      <Filter>QTClass\Unused</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\TriggerView\TriggerView.h">
+      <Filter>QTClass\TriggerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\TexturePackerView\TexturePackerView.h">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\TemplateView\repairtemplatedialog.h">
+      <Filter>QTClass\TemplateView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\TemplateView\TemplateListWidget.h">
+      <Filter>QTClass\TemplateView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\TemplateView\TemplateView.h">
+      <Filter>QTClass\TemplateView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\ImageListWidget.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\ImageTreeWidget.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\resmodifydirdialog.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\ResModifyTreeWidget.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\ResourceView.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\QTBase\BaseDockWidget.h">
+      <Filter>QTClass\QTBase</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\QTBase\ControlBaseDockWidget.h">
+      <Filter>QTClass\QTBase</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\QTBase\QSelectedCheckBox.h">
+      <Filter>QTClass\QTBase</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\QTBase\qteditor.h">
+      <Filter>QTClass\QTBase</Filter>
+    </CustomBuild>
+    <CustomBuild Include="keyboardmappingdialog.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\KeyboardMapping\keyboardmappingdialog.h">
+      <Filter>QTClass\KeyboardMapping</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\AnimationView\AnimationTreeWidget.h">
+      <Filter>QTClass\AnimationView</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\Classes\QTClass\ResourceView\BaseResTreeWidget.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GeneratedFiles\ui_qteditor.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_infodialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_repairtemplatedialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_resmodifydirdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_selectsprite.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_spriteitemmanagerdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_triggerdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ByteArray.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FontChina.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StringUtil.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utils\MacTransViewPos.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utils\MyLogger.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utils\MySqlLiteManager.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Base\CancelSaveData.h">
+      <Filter>CocClass\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Base\CocEventCenter.h">
+      <Filter>CocClass\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Base\DragImageSprite.h">
+      <Filter>CocClass\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Base\MD5.h">
+      <Filter>CocClass\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\AddSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\AdsorbentLayer.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\DeleteSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\DrawNodeSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\EdgeSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\SelectDirectionSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\TouchManager.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\DrawSprite\TouchSprite.h">
+      <Filter>CocClass\DrawSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\EntityImageSprite.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\ForeManager.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\ImageSprite.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\ImageSpriteLayer.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\ImageTextureManager.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\LayerMoveRangeManage.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\LoadExterModel.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\MultiselectSprite.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\Role3D.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Global\Global.h">
+      <Filter>CocClass\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Global\GlobalConstant.h">
+      <Filter>CocClass\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Global\ThreadConst.h">
+      <Filter>CocClass\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\WinEvent\WinEventDispatcher.h">
+      <Filter>CocClass\WinEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Unused\BMFontLayer.h">
+      <Filter>CocClass\Unused</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\LayerManagerView\SpriteTreeItem.h">
+      <Filter>QTClass\LayerManagerView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TriggerView\TriggerItem.h">
+      <Filter>QTClass\TriggerView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TriggerView\TriggerWidget.h">
+      <Filter>QTClass\TriggerView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\Thread\OutputPackerStaticThread.h">
+      <Filter>QTClass\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\Thread\OutputPackerThread.h">
+      <Filter>QTClass\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\Thread\PackerCommandThread.h">
+      <Filter>QTClass\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\Thread\RunTimePackerThread.h">
+      <Filter>QTClass\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\Thread\Test1.h">
+      <Filter>QTClass\Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TexturePackerView\OutputInfo.h">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TexturePackerView\PlistTool.h">
+      <Filter>QTClass\TexturePackerView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TemplateView\TemplateListItem.h">
+      <Filter>QTClass\TemplateView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TaskQueue\ConcurrentTaskQueue.h">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TaskQueue\Task_Implement.h">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\TaskQueue\TaskThread_Queue.h">
+      <Filter>QTClass\TaskQueue</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\ResourceView\ImgTransPath.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\ResourceView\ResMap.h">
+      <Filter>QTClass\ResourceView</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\QTBase\convertMapToJsonFile.h">
+      <Filter>QTClass\QTBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\QTBase\OutputSpriteData.h">
+      <Filter>QTClass\QTBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\QTBase\QTInput.h">
+      <Filter>QTClass\QTBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\QTBase\QTOutput.h">
+      <Filter>QTClass\QTBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\QTBase\TemplateValueGenerator.h">
+      <Filter>QTClass\QTBase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\BaseBlock.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\BoxBody.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\FluidBody.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\GridManagerLayer.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\GridSpriteLayer.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\ItalicBody.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\Grid\MultiselectBlock.h">
+      <Filter>CocClass\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_keyboardmappingdialog.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\QTClass\KeyboardMapping\InvincibleFriendClass.h">
+      <Filter>QTClass\KeyboardMapping</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CocClass\ForeManager\LayerAnimationCache.h">
+      <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="QTEditor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="QTEditor.rc" />
+  </ItemGroup>
+</Project>

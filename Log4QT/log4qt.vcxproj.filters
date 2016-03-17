@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="log4qt">
+      <UniqueIdentifier>{423ddffd-812f-492b-be4f-71e9a6332c94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="log4qt\helpers">
+      <UniqueIdentifier>{33a525ce-c6aa-441b-9e37-ec6434907a03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="log4qt\spi">
+      <UniqueIdentifier>{422f4259-0783-4ca1-be70-b9750e6d38a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="log4qt\varia">
+      <UniqueIdentifier>{3ea5dc7a-0852-4707-ac5a-08ba8b1f16a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{dd4679e2-925e-42db-8176-7a0e265d809c}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{72deabc8-0dbe-4be7-aa75-35125c38d856}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="log4qt\appender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\appenderskeleton.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\consoleappender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\dailyrollingfileappender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\fileappender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\layout.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\logger.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\patternlayout.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\rollingfileappender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\simplelayout.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\ttcclayout.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\writerappender.h">
+      <Filter>log4qt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\helpers\configuratorhelper.h">
+      <Filter>log4qt\helpers</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\helpers\logobject.h">
+      <Filter>log4qt\helpers</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\spi\filter.h">
+      <Filter>log4qt\spi</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\debugappender.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\denyallfilter.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\levelmatchfilter.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\levelrangefilter.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\listappender.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\nullappender.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+    <CustomBuild Include="log4qt\varia\stringmatchfilter.h">
+      <Filter>log4qt\varia</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GeneratedFiles\Debug\moc_appender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_appender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\appenderskeleton.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_appenderskeleton.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_appenderskeleton.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\basicconfigurator.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\consoleappender.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_consoleappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_consoleappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\dailyrollingfileappender.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_dailyrollingfileappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_dailyrollingfileappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\fileappender.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_fileappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_fileappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\hierarchy.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\layout.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_layout.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_layout.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\level.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\log4qt.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\logger.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_logger.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_logger.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\loggerrepository.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\loggingevent.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\logmanager.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\mdc.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\ndc.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\patternlayout.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_patternlayout.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_patternlayout.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\propertyconfigurator.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\rollingfileappender.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_rollingfileappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_rollingfileappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\simplelayout.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_simplelayout.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_simplelayout.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\ttcclayout.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ttcclayout.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ttcclayout.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\writerappender.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_writerappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_writerappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\classlogger.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\configuratorhelper.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_configuratorhelper.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_configuratorhelper.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\datetime.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\factory.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\initialisationhelper.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\logerror.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\logobject.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_logobject.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_logobject.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\logobjectptr.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\optionconverter.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\patternformatter.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\helpers\properties.cpp">
+      <Filter>log4qt\helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\spi\filter.cpp">
+      <Filter>log4qt\spi</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_filter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_filter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\debugappender.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_debugappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_debugappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\denyallfilter.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_denyallfilter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_denyallfilter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\levelmatchfilter.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_levelmatchfilter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_levelmatchfilter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\levelrangefilter.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_levelrangefilter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_levelrangefilter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\listappender.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_listappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_listappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\nullappender.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_nullappender.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_nullappender.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\varia\stringmatchfilter.cpp">
+      <Filter>log4qt\varia</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_stringmatchfilter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_stringmatchfilter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="log4qt\Log4QTLogger.cpp">
+      <Filter>log4qt</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="log4qt\basicconfigurator.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\hierarchy.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\level.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\log4qt.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\loggerrepository.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\loggingevent.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\logmanager.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\mdc.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\ndc.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\propertyconfigurator.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\classlogger.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\datetime.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\factory.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\initialisationhelper.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\logerror.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\logobjectptr.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\optionconverter.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\patternformatter.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\helpers\properties.h">
+      <Filter>log4qt\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="log4qt\Log4QTLogger.h">
+      <Filter>log4qt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

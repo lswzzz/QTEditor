@@ -1,0 +1,1017 @@
+2016-01-27 23:53:15 [] [info] [INFO] - addConsoleInfo be Called, the arg is 打开的配置文件为:C:/Users/lswzz/Desktop/TestLevel/aaa.QConf
+2016-01-27 23:53:16 [] [info] [INFO] - QTInput::ReadConfFile be called, the initWidth is 960 initHeight is 640 width is 960 height is 640 screenWidth is 2560 screenHeight is 1440 workRectWidth is 2560 workRectHeight is 1412
+2016-01-27 23:53:16 [] [info] [INFO] - QTInput::ReadConfFile be called, the user input a custom configure file
+2016-01-27 23:53:16 [] [info] [INFO] - Start read config data
+2016-01-27 23:53:16 [] [info] [INFO] - the HelloWorld::createGrid be called, the args is 238 454 40 40 0
+2016-01-27 23:53:16 [] [info] [INFO] - addConsoleInfo be Called, the arg is 创建的网格信息:row:238 col:454, width:40 height:40
+2016-01-27 23:53:16 [] [info] [INFO] - the ForeManager::setOpenState be called, the alllayer openState is 1
+2016-01-27 23:53:16 [] [info] [INFO] - Start read Resource Data
+2016-01-27 23:53:16 [] [info] [INFO] - in QTInput::ReadConfFile, start read resource files
+2016-01-27 23:53:30 [] [info] [INFO] - in QTInput::ReadConfFile, start read exteral files
+2016-01-27 23:53:31 [] [info] [INFO] - in QTInput::ReadConfFile, start read template files
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-01-27 23:53:31 [] [info] [INFO] - Start read Tiles Data
+2016-01-27 23:53:31 [] [info] [INFO] - in QTInput::ReadConfFile, start read block array
+2016-01-27 23:53:33 [] [info] [INFO] - Start read Layers Data
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 0 the loop index is 0 the layer name is d_bg
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg_ layerd_bg
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 1 the loop index is 1 the layer name is d_tree5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree5
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree5_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree5_ layerd_tree5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 2 the loop index is 2 the layer name is d_tree4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree4
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree4_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree4_ layerd_tree4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 3 the loop index is 3 the layer name is d_tree3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree3
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree3_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree3_ layerd_tree3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 4 the loop index is 4 the layer name is d_tree2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree2
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree2_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree2_ layerd_tree2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 5 the loop index is 5 the layer name is d_tree1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree1
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree1_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree1_ layerd_tree1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 6 the loop index is 6 the layer name is d_tree-1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree-1
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree-1_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree-1_ layerd_tree-1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_tree-2 9
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 7 the loop index is 7 the layer name is s_tree-2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_tree-2
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_tree-2_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_tree-2_ layers_tree-2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg-2 10
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 8 the loop index is 8 the layer name is s_bg-2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg-2
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg-2_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg-2_ layers_bg-2
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg-1 10
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 9 the loop index is 9 the layer name is s_bg-1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg-1
+2016-01-27 23:53:33 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg-1_ ../Resources/dynamic_texture filelist size is 9
+2016-01-27 23:53:33 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg-1_ layers_bg-1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg1 11
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:33 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 10 the loop index is 10 the layer name is s_bg1
+2016-01-27 23:53:33 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg1
+2016-01-27 23:53:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:36 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:41 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg1_ ../Resources/dynamic_texture filelist size is 247
+2016-01-27 23:53:41 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg1_ layers_bg1
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg2 12
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:41 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 11 the loop index is 11 the layer name is s_bg2
+2016-01-27 23:53:41 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg2
+2016-01-27 23:53:42 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg2_ ../Resources/dynamic_texture filelist size is 45
+2016-01-27 23:53:42 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg2_ layers_bg2
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-2 13
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:42 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 12 the loop index is 12 the layer name is s_bg3_-2
+2016-01-27 23:53:42 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-2
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-2_ ../Resources/dynamic_texture filelist size is 24
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-2_ layers_bg3_-2
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 13 the loop index is 13 the layer name is d_bg1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg1
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg1_ ../Resources/dynamic_texture filelist size is 8
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg1_ layerd_bg1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-1 15
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 14 the loop index is 14 the layer name is s_bg3_-1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-1
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-1_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-1_ layers_bg3_-1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_1 16
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 15 the loop index is 15 the layer name is s_bg3_1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_1
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_1_ ../Resources/dynamic_texture filelist size is 4
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_1_ layers_bg3_1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows 17
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 16 the loop index is 16 the layer name is s_shadows
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows
+2016-01-27 23:53:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows_ ../Resources/dynamic_texture filelist size is 15
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows_ layers_shadows
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows-2 18
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 17 the loop index is 17 the layer name is s_shadows-2
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows-2
+2016-01-27 23:53:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows-2_ ../Resources/dynamic_texture filelist size is 4
+2016-01-27 23:53:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows-2_ layers_shadows-2
+2016-01-27 23:53:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_2 19
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 18 the loop index is 18 the layer name is s_bg3_2
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_2
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_2_ ../Resources/dynamic_texture filelist size is 10
+2016-01-27 23:53:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_2_ layers_bg3_2
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_3 20
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 19 the loop index is 19 the layer name is s_bg3_3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_3
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_3_ ../Resources/dynamic_texture filelist size is 3
+2016-01-27 23:53:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_3_ layers_bg3_3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_halo 21
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 20 the loop index is 20 the layer name is s_halo
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_halo
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_halo_ ../Resources/dynamic_texture filelist size is 10
+2016-01-27 23:53:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_halo_ layers_halo
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg4 24
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 21 the loop index is 21 the layer name is s_bg4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg4
+2016-01-27 23:53:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg4_ ../Resources/dynamic_texture filelist size is 14
+2016-01-27 23:53:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg4_ layers_bg4
+2016-01-27 23:53:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg5 25
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:45 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 22 the loop index is 22 the layer name is s_bg5
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg5
+2016-01-27 23:53:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:45 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg5_ ../Resources/dynamic_texture filelist size is 46
+2016-01-27 23:53:45 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg5_ layers_bg5
+2016-01-27 23:53:45 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 23 the loop index is 23 the layer name is s_platform
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_platform
+2016-01-27 23:53:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_platform_ ../Resources/dynamic_texture filelist size is 26
+2016-01-27 23:53:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_platform_ layers_platform
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 24 the loop index is 24 the layer name is actors_0
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is actors_0
+2016-01-27 23:53:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is actors_0_ ../Resources/dynamic_texture filelist size is 8
+2016-01-27 23:53:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:actors_0_ layeractors_0
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg2 28
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 25 the loop index is 25 the layer name is d_bg2
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg2
+2016-01-27 23:53:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg2_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d 29
+2016-01-27 23:53:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg2_ layerd_bg2
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 26 the loop index is 26 the layer name is d
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d
+2016-01-27 23:53:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_ ../Resources/dynamic_texture filelist size is 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is __backEffect 30
+2016-01-27 23:53:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_ layerd
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 27 the loop index is 27 the layer name is __backEffect
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is __backEffect
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is actors_1 31
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:46 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 28 the loop index is 28 the layer name is actors_1
+2016-01-27 23:53:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is actors_1
+2016-01-27 23:53:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is actors_1_ ../Resources/dynamic_texture filelist size is 6
+2016-01-27 23:53:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:actors_1_ layeractors_1
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is __frontEffect 31
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 29 the loop index is 29 the layer name is __frontEffect
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is __frontEffect
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg1 32
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg1 32
+2016-01-27 23:53:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 30 the loop index is 30 the layer name is s_fg1
+2016-01-27 23:53:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg1
+2016-01-27 23:53:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:50 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:52 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg1_ ../Resources/dynamic_texture filelist size is 163
+2016-01-27 23:53:52 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg1_ layers_fg1
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg2 33
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg1 32
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg2 33
+2016-01-27 23:53:52 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 31 the loop index is 31 the layer name is s_fg2
+2016-01-27 23:53:52 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg2
+2016-01-27 23:53:53 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg2_ ../Resources/dynamic_texture filelist size is 9
+2016-01-27 23:53:53 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg2_ layers_fg2
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg3 34
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg1 32
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg2 33
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg3 34
+2016-01-27 23:53:53 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 32 the loop index is 32 the layer name is s_fg3
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg3
+2016-01-27 23:53:53 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg3_ ../Resources/dynamic_texture filelist size is 4
+2016-01-27 23:53:53 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg3_ layers_fg3
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is actors_2 36
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg1 32
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg2 33
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg3 34
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_2 36
+2016-01-27 23:53:53 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 33 the loop index is 33 the layer name is actors_2
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is actors_2
+2016-01-27 23:53:53 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is actors_2_ ../Resources/dynamic_texture filelist size is 2
+2016-01-27 23:53:53 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:actors_2_ layeractors_2
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_fg1 37
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg 1
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree5 3
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree4 4
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree3 5
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree2 6
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree1 7
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_tree-1 8
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_tree-2 9
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-2 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg-1 10
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg1 11
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg2 12
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-2 13
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg1 14
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_-1 15
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_1 16
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows 17
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_shadows-2 18
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_2 19
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg3_3 20
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_halo 21
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg4 24
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_bg5 25
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_platform 26
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_0 27
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_bg2 28
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d 29
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __backEffect 30
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_1 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is __frontEffect 31
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg1 32
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg2 33
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is s_fg3 34
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is actors_2 36
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is d_fg1 37
+2016-01-27 23:53:53 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 34 the loop index is 34 the layer name is d_fg1
+2016-01-27 23:53:53 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_fg1
+2016-01-27 23:53:53 [] [info] [INFO] - the ForeManager::setOpenState be called, the alllayer openState is 0
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree5
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree4
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree3
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree-1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_tree-2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg-2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg-1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows-2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_3
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_halo
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg4
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg5
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_platform
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is actors_0
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is actors_1
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg2
+2016-01-27 23:53:53 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:53 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg3
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:54 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is actors_2
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 45
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 37
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 29
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 21
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 18
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 15
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 15
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 9
+2016-01-27 23:53:54 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:54 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 229
+2016-01-27 23:53:55 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:55 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 8827
+2016-01-27 23:53:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 561
+2016-01-27 23:53:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 412
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 14
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 55
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 240
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 9
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 158
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 90
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 128
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 134
+2016-01-27 23:53:57 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 741
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 204
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 10
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 4
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 123
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 54
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 8
+2016-01-27 23:53:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 4
+2016-01-27 23:53:57 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg1
+2016-01-27 23:53:58 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-01-27 23:53:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-01-27 23:53:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3517
+2016-01-27 23:54:35 [] [info] [INFO] - the QTEditor::on_actionPreview_triggered be called
+2016-01-27 23:54:35 [] [info] [INFO] - the TexturePackerView::PreViewSave be called, the args is E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave autoSave
+2016-01-27 23:54:35 [] [info] [INFO] - the HelloWorld::getAllImageNoStatic() be called
+2016-01-27 23:54:35 [] [info] [INFO] - the HelloWorld::getAllAnimateImage() be called
+2016-01-27 23:57:37 [] [info] [INFO] - the TexturePackerView::outputTest be called, the filelist size is 324 autoSave_static_0_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:57:37 [] [info] [INFO] - addConsoleInfo be Called, the arg is outputDir:%s    outputName:%s
+2016-01-27 23:59:12 [] [info] [INFO] - the TexturePackerView::outputTest be called, the filelist size is 33 autoSave_static_1_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:59:12 [] [info] [INFO] - addConsoleInfo be Called, the arg is outputDir:%s    outputName:%s
+2016-01-27 23:59:26 [] [info] [INFO] - the TexturePackerView::outputTest be called, the filelist size is 10 autoSave_static_2_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:59:26 [] [info] [INFO] - addConsoleInfo be Called, the arg is outputDir:%s    outputName:%s
+2016-01-27 23:59:26 [] [info] [INFO] - the TexturePackerView::outputTest be called, the filelist size is 82 autoSave_static_3_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:59:26 [] [info] [INFO] - addConsoleInfo be Called, the arg is outputDir:%s    outputName:%s
+2016-01-27 23:59:29 [] [info] [INFO] - the TexturePackerView::outputTest be called, the filelist size is 174 autoSave_static_4_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:59:29 [] [info] [INFO] - addConsoleInfo be Called, the arg is outputDir:%s    outputName:%s
+2016-01-27 23:59:34 [] [info] [INFO] - the TexturePackerView::outputPacker be called, the filelist size is 16 autoSave_dynamic_ E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave
+2016-01-27 23:59:34 [] [info] [INFO] - addConsoleInfo be Called, the arg is 正在保存配置文件!!!!
+2016-01-27 23:59:36 [] [info] [INFO] - the TexturePackerView::checkOutputCount be called, the result is preShow
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::OutputFileBinary be called, the args is E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave/config.lv
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::OutputGrids be called
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::getGridNum be called, the getGridNum function are ended, the args size_Box is 16843 size_Italic is 571 size_Fluid is 0
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::getGridData be called finished, the Vec_Box size is 16843 the Vec_Italic size is 571 the Vec_Fluid size is 0
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::getByteArrayData be called, the args num_Box is 16843 num_Italic is 571 num_Fluid is 0
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 2
+2016-01-27 23:59:36 [] [info] [INFO] - the QTOutput::OutputTexs be called, the output data dynamic_Count is 1 static_Count is 5 animate_Count is 0
+2016-01-27 23:59:40 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 3
+2016-01-27 23:59:40 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 4
+2016-01-27 23:59:40 [] [info] [INFO] - the QTOutput::OutputLayers be called, the output layer count is 21
+2016-01-27 23:59:45 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 5
+2016-01-27 23:59:45 [] [info] [INFO] - the QTOutput::OutputFileBinary successed
+2016-01-27 23:59:45 [] [info] [INFO] - addConsoleInfo be Called, the arg is 保存成功
+2016-01-27 23:59:45 [] [info] [INFO] - the QTEditor::showPreView be called, command is E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/../Castle/Castle.exe E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/autoSave

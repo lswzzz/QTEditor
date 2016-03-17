@@ -1,0 +1,175 @@
+2016-02-02 23:56:53 [] [info] [INFO] - the HelloWorld::createGrid be called, the args is 100 100 40 40 1
+2016-02-02 23:56:53 [] [info] [INFO] - addConsoleInfo be Called, the arg is 创建的网格信息:row:100 col:100, width:40 height:40
+2016-02-02 23:56:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is layer_0 0
+2016-02-02 23:56:54 [] [info] [INFO] - the HelloWorld::setType be called, the args is 3
+2016-02-02 23:56:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:56:54 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is layer_0 0
+2016-02-02 23:57:02 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:02 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
+2016-02-02 23:57:02 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
+2016-02-02 23:57:02 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
+2016-02-02 23:57:03 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0animation_0E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/0.png2
+2016-02-02 23:57:03 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is layer_0_ ../Resources/dynamic_texture filelist size is 5
+2016-02-02 23:57:03 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:layer_0_ layerlayer_0
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:03 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_0
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:03 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:03 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-02-02 23:57:03 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is layer_0
+2016-02-02 23:57:03 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-02-02 23:57:03 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-02-02 23:57:03 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::onMouseUp be called, user cancel operate
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_0
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:03 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_0
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:03 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:03 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:03 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_0
+2016-02-02 23:57:07 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:07 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:07 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_0
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:07 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:07 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:07 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:57:08 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
+2016-02-02 23:57:08 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:08 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_0
+2016-02-02 23:57:12 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:12 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:12 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_0
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:12 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:12 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:12 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:57:16 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:16 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
+2016-02-02 23:57:16 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
+2016-02-02 23:57:16 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:17 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
+2016-02-02 23:57:17 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0animation_1E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/0.png2
+2016-02-02 23:57:17 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:17 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:17 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_1
+2016-02-02 23:57:17 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:17 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:17 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:17 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:17 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:17 [] [info] [INFO] - the HelloWorld::onMouseUp be called, user cancel operate
+2016-02-02 23:57:23 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:23 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
+2016-02-02 23:57:23 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
+2016-02-02 23:57:23 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:24 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
+2016-02-02 23:57:24 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0animation_2E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/5.png2
+2016-02-02 23:57:24 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is layer_0_ ../Resources/dynamic_texture filelist size is 9
+2016-02-02 23:57:24 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:layer_0_ layerlayer_0
+2016-02-02 23:57:24 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:24 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:24 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_2
+2016-02-02 23:57:24 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:24 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:24 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:24 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-02-02 23:57:24 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is layer_0
+2016-02-02 23:57:24 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-02-02 23:57:24 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-02-02 23:57:24 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3
+2016-02-02 23:57:24 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::onMouseUp be called, user cancel operate
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_2
+2016-02-02 23:57:25 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:25 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:25 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_2
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:25 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:25 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:25 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:57:27 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
+2016-02-02 23:57:27 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:27 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-02-02 23:57:28 [] [info] [INFO] - the LayerManagerWidget::imageitemClick be called, the args itemname is animation_2, columns is 1
+2016-02-02 23:57:28 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_2
+2016-02-02 23:57:28 [] [info] [INFO] - the HelloWorld::getSpriteChildFromForeManager be called, the args is layer_0 animation_2
+2016-02-02 23:57:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:28 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_2
+2016-02-02 23:57:28 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:28 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:28 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:28 [] [info] [INFO] - the HelloWorld::setType be called, the args is 9
+2016-02-02 23:57:29 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
+2016-02-02 23:57:29 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_2
+2016-02-02 23:57:29 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:29 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:29 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_2
+2016-02-02 23:57:29 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:29 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:29 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:29 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:57:30 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
+2016-02-02 23:57:30 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:57:30 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-02-02 23:57:31 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:57:31 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_2
+2016-02-02 23:57:31 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:57:31 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:57:31 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_2
+2016-02-02 23:57:31 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:57:31 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:57:31 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:57:31 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
+2016-02-02 23:58:28 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:58:28 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
+2016-02-02 23:58:28 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
+2016-02-02 23:58:28 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:58:29 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
+2016-02-02 23:58:29 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0animation_3E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/9.png2
+2016-02-02 23:58:29 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is layer_0_ ../Resources/dynamic_texture filelist size is 14
+2016-02-02 23:58:29 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:layer_0_ layerlayer_0
+2016-02-02 23:58:29 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:58:29 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:58:29 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_3
+2016-02-02 23:58:29 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:58:29 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:58:29 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:58:29 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
+2016-02-02 23:58:30 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
+2016-02-02 23:58:30 [] [info] [INFO] - the HelloWorld::onMouseUp be called, user cancel operate
+2016-02-02 23:58:30 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-02-02 23:58:30 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is layer_0
+2016-02-02 23:58:30 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-02-02 23:58:30 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-02-02 23:58:30 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 4
+2016-02-02 23:59:24 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
+2016-02-02 23:59:24 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0animation_1
+2016-02-02 23:59:24 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
+2016-02-02 23:59:24 [] [info] [INFO] -  the ControlView::clearProperties be called
+2016-02-02 23:59:24 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is animation_1
+2016-02-02 23:59:24 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
+2016-02-02 23:59:24 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
+2016-02-02 23:59:24 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
+2016-02-02 23:59:24 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9

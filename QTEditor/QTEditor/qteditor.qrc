@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>./Resources/frame.png</file>
+    <file>./Resources/grid.png</file>
+    <file>./Resources/dynamic.png</file>
+    <file>./Resources/lock.png</file>
+    <file>./Resources/static.png</file>
+    <file>./Resources/add.ico</file>
+    <file>./Resources/add2.ico</file>
+    <file>./Resources/bg.ico</file>
+    <file>./Resources/button1.png</file>
+    <file>./Resources/button2.png</file>
+    <file>./Resources/file.ico</file>
+    <file>./Resources/folder.ico</file>
+    <file>./Resources/folder_Back.ico</file>
+    <file>./Resources/hide.ico</file>
+    <file>./Resources/image.ico</file>
+    <file>./Resources/no.ico</file>
+    <file>./Resources/open.ico</file>
+    <file>./Resources/output.ico</file>
+    <file>./Resources/Preview.ico</file>
+    <file>./Resources/res.ico</file>
+    <file>./Resources/save.ico</file>
+    <file>./Resources/save_as.ico</file>
+    <file>./Resources/show.ico</file>
+    <file>./Resources/Sort.ico</file>
+    <file>./Resources/sprite.ico</file>
+    <file>./Resources/Sprite.png</file>
+    <file>./Resources/sub.ico</file>
+    <file>./Resources/template.ico</file>
+    <file>./Resources/touch.ico</file>
+    <file>./Resources/unlock.png</file>
+    <file>./Resources/view.ico</file>
+    <file>./Resources/warning.ico</file>
+    <file>./Resources/xml.ico</file>
+    <file>./Resources/yes.ico</file>
+  </qresource>
+</RCC>
