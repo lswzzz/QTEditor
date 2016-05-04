@@ -17,6 +17,8 @@ public:
 	static QString	getListImagePath(ImageSprite* sprite);
 	static QString	getRealImageName(int index);
 	static QString	getRealImageName(ImageSprite* sprite);
+	//获取导出时的相对路径；
+	static QString  getOutputRelativeImageName(ImageSprite* sprite);
 	static QString	getRealImagePath(ImageSprite* sprite);
 	static int		getIndexByListImage(QString listImg);
 	static QString	getListImagePathByRelativeImagePath(QString relaPath);

@@ -7,7 +7,7 @@ class ImageTreeWidget : public BaseResTreeWidget
 {
 	Q_OBJECT
 public:
-	ImageTreeWidget(QWidget *parent = 0);
+	ImageTreeWidget(QWidget *parent = 0, bool isImageTree = true);
 	virtual ~ImageTreeWidget();
 
 public slots:
@@ -24,7 +24,7 @@ public slots:
 	QTreeWidgetItem* addDir(bool autoname, QString dir = "");
 protected:
 	
-	virtual void init();
+	void initTreeWidget();
 	void mousePressEvent(QMouseEvent *event);
 	void mouseMoveEvent(QMouseEvent *event);
 	void mouseReleaseEvent(QMouseEvent* event);

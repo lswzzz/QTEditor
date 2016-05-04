@@ -80,6 +80,10 @@ int main_wrapper(int argc, char *argv[])
 	
 	app.setParent((HWND)widget->winId(), t);
 	
+	/*QFile qss(path + "../QTEditor/Resources/StyleSheets/QTDark.stylesheet");
+	qss.open(QFile::ReadOnly);
+	app.setStyleSheet(qss.readAll());*/
+
 	//http://blog.sina.com.cn/s/blog_3e62c50d010118iy.html
 	return cocos2d::CCQApplication::getInstance()->run();
 }
@@ -98,7 +102,7 @@ int main(int argc, char *argv[])
 	{
 		// 把自己实现的main函数包装一下, 放在try .. except 块中. 这样出现了异常可以自动生成dump
 		main_wrapper(argc, argv);
-}
+	}
 	__except (code = GetExceptionCode(), DumpMiniDump(hFile, GetExceptionInformation()), EXCEPTION_EXECUTE_HANDLER) //出现了异常, 记录异常的code, 生成dump!!
 	{
 		char msg[512];

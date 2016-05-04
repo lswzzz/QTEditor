@@ -148,7 +148,7 @@ bool HelloWorld::init()
 
 #if (_DEBUG && (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32))
 	autoSaveTime = 60.0f;
-	this->schedule(schedule_selector(HelloWorld::saveConf), autoSaveTime);
+	//this->schedule(schedule_selector(HelloWorld::saveConf), autoSaveTime);
 #else
 	autoSaveTime = 300.0f;
 #endif

@@ -958,7 +958,8 @@ std::vector<OutputSpriteData*> ImageSpriteLayer::getOutputSpriteData(std::vector
 			}
 			else{
 				//这里有问题，导出的名字有前缀
-				data->resName = ImgTransPath::getRealImageName(sprite).toStdString();
+				data->resName = ImgTransPath::getOutputRelativeImageName(sprite).toStdString();
+				//data->resName = ImgTransPath::getRealImageName(sprite).toStdString();
 			}
 		}
 		data->contentSize = sprite->getContentSize();

@@ -689,6 +689,9 @@
     <ClCompile Include="..\Classes\CocClass\ForeManager\LayerAnimationCache.cpp">
       <Filter>CocClass\ForeManager</Filter>
     </ClCompile>
+    <ClCompile Include="ConsoleLogThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="qteditor.ui">
@@ -1061,6 +1064,9 @@
     </ClInclude>
     <ClInclude Include="..\Classes\CocClass\ForeManager\LayerAnimationCache.h">
       <Filter>CocClass\ForeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleLogThread.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

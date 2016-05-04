@@ -17,19 +17,21 @@
 
 USING_NS_CC;
 
-ImageTreeWidget::ImageTreeWidget(QWidget *parent)
+ImageTreeWidget::ImageTreeWidget(QWidget *parent, bool isImageTree)
 	:BaseResTreeWidget(parent)
 {
 	connect(this, SIGNAL(itemDoubleClicked(QTreeWidgetItem*, int)), this, SLOT(editFileOrDirName(QTreeWidgetItem*, int)));
 	connect(this, SIGNAL(itemChanged(QTreeWidgetItem*, int)), this, SLOT(itemChanged(QTreeWidgetItem*, int)));
 	connect(this, SIGNAL(itemClicked(QTreeWidgetItem*, int)), this, SLOT(itemClick(QTreeWidgetItem*, int)));
-	init();
-	dialog = new ResModifyDirDialog();
-	dialog->isResourceDialog(type__);
+	if (isImageTree){
+		initTreeWidget();
+		dialog = new ResModifyDirDialog();
+		dialog->isResourceDialog(type__);
+	}
 	newDirName = "newFolder";
 }
 
-void ImageTreeWidget::init()
+void ImageTreeWidget::initTreeWidget()
 {
 	type__ = Image_Type::NormalBlock;
 	hasPrePacker = true;

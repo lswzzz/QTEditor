@@ -192,6 +192,7 @@
     <ClCompile Include="..\Classes\Utils\MacTransViewPos.cpp" />
     <ClCompile Include="..\Classes\Utils\MyLogger.cpp" />
     <ClCompile Include="..\Classes\Utils\MySqlLiteManager.cpp" />
+    <ClCompile Include="ConsoleLogThread.cpp" />
     <ClCompile Include="GeneratedFiles\Debug\moc_ActionView.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -949,6 +950,7 @@
     <ClInclude Include="..\Classes\Utils\MacTransViewPos.h" />
     <ClInclude Include="..\Classes\Utils\MyLogger.h" />
     <ClInclude Include="..\Classes\Utils\MySqlLiteManager.h" />
+    <ClInclude Include="ConsoleLogThread.h" />
     <ClInclude Include="GeneratedFiles\ui_infodialog.h" />
     <ClInclude Include="GeneratedFiles\ui_keyboardmappingdialog.h" />
     <ClInclude Include="GeneratedFiles\ui_qteditor.h" />

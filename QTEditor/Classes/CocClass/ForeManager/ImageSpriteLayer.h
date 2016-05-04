@@ -160,6 +160,8 @@ public:
 	inline LayerAnimationCache* getAnimationCache(){ return animationCache; };
 	std::vector<int> getAnimationSpriteFrameList(std::string animationname);
 	inline bool isHasAnimationSprite(){ return animationResMap.size() == 0 ? false : true; };
+	//inline QString getTextureKeyVecKey(int index){ return textureKeyVec.at(index); };
+	//int getTetureKeyIndex(std::string str);
 private:
 	//这个值是layerManager管理的层顺序的下表
 	int layerIndex;
@@ -200,6 +202,7 @@ private:
 	std::vector<AnimationInfo*> _changeAnimationInfos;
 	std::mutex m_Outputmutex;
 	std::recursive_mutex tagmutex;
+	//std::vector<QString> textureKeyVec;
 	unsigned int topTag;
 	unsigned int currentTag;
 	bool needOutputUpdate;

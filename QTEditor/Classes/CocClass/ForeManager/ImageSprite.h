@@ -35,8 +35,7 @@ public:
 	//init section
 	static ImageSprite* create();
 	static ImageSprite* create(int index);
-	//virtual bool initWithText(std::string filename, std::string image);
-    virtual bool initWithText(Texture2D* texture, cocos2d::Rect rect, std::string png);
+	virtual bool initWithText(Texture2D* texture, cocos2d::Rect rect, std::string png);
 	void setParentTag(std::string parentTag);
 	std::string getParentTag();
 	std::string getTemplateFile();

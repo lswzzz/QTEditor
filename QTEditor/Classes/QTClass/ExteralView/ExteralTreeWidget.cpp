@@ -4,12 +4,14 @@
 #include "QDir"
 
 ExteralTreeWidget::ExteralTreeWidget(QWidget *parent)
-	:ImageTreeWidget(parent)
+	:ImageTreeWidget(parent, false)
 {
-	init();
+	initTreeWidget();
+	dialog = new ResModifyDirDialog();
+	dialog->isResourceDialog(type__);
 }
 
-void ExteralTreeWidget::init()
+void ExteralTreeWidget::initTreeWidget()
 {
 	type__ = Image_Type::Entity;
 	hasPrePacker = false;

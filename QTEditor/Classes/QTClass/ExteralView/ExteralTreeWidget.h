@@ -9,6 +9,6 @@ public:
 	ExteralTreeWidget(QWidget *parent = 0);
 	virtual ~ExteralTreeWidget();
 protected:
-	virtual void init();
+	void initTreeWidget();
 };
 

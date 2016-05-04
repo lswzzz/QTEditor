@@ -504,7 +504,6 @@ void QTInput::setProperties(ImageSprite* sprite, QJsonObject& obj)
 	}
 }
 
-
 QString QTInput::getMD5(QString templateFile)
 {
 	QString templatemd5;
@@ -833,6 +832,7 @@ void QTInput::readLayersData(QJsonObject& obj, bool hasAssortDir, int sprite_cou
 	if (sprite_count > layerManagerWidget->getCurrItemIndex()){
 		layerManagerWidget->setCurrItemIndex(sprite_count);
 	}
+	//MyLogger::getInstance()->addWarning(Director::getInstance()->getTextureCache()->getCachedTextureInfo().c_str());
 }
 
 void QTInput::readLayersFileData(QJsonObject& obj, bool hasAssortDir, int sprite_count)
@@ -857,6 +857,7 @@ void QTInput::readLayersFileData(QJsonObject& obj, bool hasAssortDir, int sprite
 	if (sprite_count > layerManagerWidget->getCurrItemIndex()){
 		layerManagerWidget->setCurrItemIndex(sprite_count);
 	}
+	MyLogger::getInstance()->addWarning(Director::getInstance()->getTextureCache()->getCachedTextureInfo().c_str());
 }
 
 void QTInput::readSimpleLayerData(QJsonObject& obj, bool hasAssortDir, int i)
@@ -869,6 +870,7 @@ void QTInput::readSimpleLayerData(QJsonObject& obj, bool hasAssortDir, int i)
 	HelloWorld* scene = (HelloWorld*)g_scene;
 	QJsonObject layer = obj;
 	QString tagname = layer["tagname"].toString();
+	//if (tagname == "s_bg-1" || tagname == "s_bg1" || tagname == "s_bg2" || tagname == "s_bg3_-5" || tagname == "s_fg1" || tagname == "s_fg2")return;
 	QJsonArray images = layer["images"].toArray();
 	int count = images.size();
 	scene->addForeImageLayer(FontChina::G2U(tagname.toUtf8().data()), layer["z_order"].toInt());
@@ -924,14 +926,7 @@ void QTInput::readSimpleLayerData(QJsonObject& obj, bool hasAssortDir, int i)
 		sprite->setZOrder(zOrder);
 		sprite->setVisible(obj["visible"].toBool());
 		int copyCount = obj["copyCount"].toInt();
-		if (obj["id"].toInt() == 0){
-			static unsigned int id = 0;
-			sprite->setId(++id);
-		}
-		else{
-			sprite->setId(obj["id"].toInt());
-		}
-
+		sprite->setId(obj["id"].toInt());
 		sprite->setCopyCount(copyCount);
 		setProperties(sprite, obj);
 		if (!layerManagerWidget->addItemSpriteAsyn(parent.c_str(), tagname.c_str(), zOrder, sprite)){

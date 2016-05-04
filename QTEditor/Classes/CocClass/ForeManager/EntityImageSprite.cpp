@@ -20,8 +20,7 @@ EntityImageSprite::EntityImageSprite()
 	rangeMaxX = 0;
 	rangeMinY = 0;
 	rangeMaxY = 0;
-	alertRange = DrawNode::create();
-	addChild(alertRange, 2);
+	alertRange = nullptr;
 	aiFile = "";
 }
 
@@ -284,6 +283,10 @@ void EntityImageSprite::setRangeMaxY(int y, bool draw)
 
 void EntityImageSprite::drawAlertRange()
 {
+	if (alertRange == nullptr){
+		alertRange = DrawNode::create();
+		addChild(alertRange, 2);
+	}
 	alertRange->clear();
 	alertRange->setVisible(true);
 	auto spritesize = this->getContentSize();
@@ -310,7 +313,9 @@ void EntityImageSprite::drawAlertRange()
 
 void EntityImageSprite::setDrawNoVisible(float dt)
 {
-	alertRange->setVisible(false);
+	if (alertRange){
+		alertRange->setVisible(false);
+	}
 }
 
 void EntityImageSprite::setAIFile(std::string file)

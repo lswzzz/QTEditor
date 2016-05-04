@@ -1,221 +1,669 @@
-2016-02-22 18:32:20 [] [info] [INFO] - the HelloWorld::createGrid be called, the args is 100 100 40 40 1
-2016-02-22 18:32:20 [] [info] [INFO] - addConsoleInfo be Called, the arg is 创建的网格信息:row:100 col:100, width:40 height:40
-2016-02-22 18:32:22 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is layer_0 0
-2016-02-22 18:32:22 [] [info] [INFO] - the HelloWorld::setType be called, the args is 3
-2016-02-22 18:32:22 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
-2016-02-22 18:32:22 [] [info] [INFO] - the HelloWorld::changeLayerZOrderFromForeManager be called, the args is layer_0 0
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
-2016-02-22 18:32:26 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0image_0E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/0.png0
-2016-02-22 18:32:26 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is layer_0_ ../Resources/dynamic_texture filelist size is 1
-2016-02-22 18:32:26 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:layer_0_ layerlayer_0
-2016-02-22 18:32:26 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:26 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:26 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:32:26 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:26 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:26 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
-2016-02-22 18:32:27 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
-2016-02-22 18:32:27 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is layer_0
-2016-02-22 18:32:27 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
-2016-02-22 18:32:27 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
-2016-02-22 18:32:27 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
-2016-02-22 18:32:27 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is layer_0
-2016-02-22 18:32:27 [] [info] [INFO] - the HelloWorld::setType be called, the args is 8
-2016-02-22 18:32:27 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 8
-2016-02-22 18:32:27 [] [info] [INFO] - the HelloWorld::onKeyPressed be called , the KeyCode is KEY_SHIFT
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 8
-2016-02-22 18:32:28 [] [info] [INFO] - add Sprite to layer: info layer name is %s, sprite tag is %s, filename is %s, type is layer_0image_1E:/cocos2d-x-3.9/projects/GameEditor/QTEditor/Resources/CopyFile/ResList/1.png0
-2016-02-22 18:32:28 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is layer_0_ ../Resources/dynamic_texture filelist size is 2
-2016-02-22 18:32:28 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:layer_0_ layerlayer_0
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:28 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:28 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::onKeyReleased be called , the KeyCode is KEY_SHIFT
-2016-02-22 18:32:28 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
-2016-02-22 18:32:28 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is layer_0
-2016-02-22 18:32:28 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::onMouseUp be called, user cancel operate
-2016-02-22 18:32:28 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
-2016-02-22 18:32:28 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:28 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:28 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:28 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:28 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:29 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:29 [] [info] [INFO] -  the ControlView::on_saveButton_clicked be called
-2016-02-22 18:32:29 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:30 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:30 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:30 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:30 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:30 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:30 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:34 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:34 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:34 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:34 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:34 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:34 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:38 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:38 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:32:39 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:39 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_0
-2016-02-22 18:32:39 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:39 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:39 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:32:39 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:39 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:39 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:40 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:40 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:40 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:40 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:40 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:40 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:40 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:40 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:41 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:41 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_0
-2016-02-22 18:32:41 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:41 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:41 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:32:41 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:41 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:41 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:42 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:42 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:42 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:42 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:42 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:42 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:42 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:42 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:43 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:43 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:32:49 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:32:51 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:32:52 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:52 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:52 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:32:52 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:52 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_0
-2016-02-22 18:32:52 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:52 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:52 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:32:52 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:52 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:53 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:53 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:53 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:53 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:53 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:53 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:53 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:53 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:53 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:54 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:54 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:54 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:32:55 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:55 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:32:57 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:57 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:32:57 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:32:58 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:32:58 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:32:58 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:58 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:58 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:32:58 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:58 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:58 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:32:59 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:32:59 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_0
-2016-02-22 18:32:59 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:32:59 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:32:59 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:32:59 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:32:59 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:32:59 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:00 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:00 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:33:00 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:00 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:33:00 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:33:00 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:33:00 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:33:00 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:01 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:01 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:33:02 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:33:02 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:33:05 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:05 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:05 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:33:05 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:33:05 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:05 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:05 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:05 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:33:05 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:33:05 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:33:06 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:07 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:07 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:33:10 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:33:11 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:33:12 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
-2016-02-22 18:33:13 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:13 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:33:14 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:14 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:33:14 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:33:15 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:33:15 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_1
-2016-02-22 18:33:15 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:15 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:33:15 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_1
-2016-02-22 18:33:15 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:33:15 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:33:15 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::showNodeEdge be called, the args is layer_0image_0
-2016-02-22 18:33:16 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:16 [] [info] [INFO] -  the ControlView::clearProperties be called
-2016-02-22 18:33:16 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is image_0
-2016-02-22 18:33:16 [] [info] [INFO] - the ControlView::setSelectedButton_state be called
-2016-02-22 18:33:16 [] [info] [INFO] - ControlView::setValueFromChildSprite be called, the user create Sprite By Template or show some sprite properties
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is 9
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is 9
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:33:16 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
-2016-02-22 18:33:17 [] [info] [INFO] - the ControlView::setTargetSprite be called, the sprite tag is null
-2016-02-22 18:33:17 [] [info] [INFO] - ControlView::setValueFromTemplateFile be called, user show template properties
-2016-02-22 18:33:18 [] [info] [INFO] - the HelloWorld::onTouchBegan be called, the type is -1
-2016-02-22 18:33:18 [] [info] [INFO] - the HelloWorld::setType be called, the args is -1
-2016-02-22 18:33:18 [] [info] [INFO] - the HelloWorld::onTouchEnded be called, the type is -1
+2016-05-04 14:43:19 [] [info] [INFO] - addConsoleInfo be Called, the arg is 打开的配置文件为:C:/Users/lswzz/Desktop/testLevel2/testLevel.qconf
+2016-05-04 14:43:23 [] [info] [INFO] - QTInput::ReadConfFile be called, the initWidth is 960 initHeight is 640 width is 960 height is 640 screenWidth is 1920 screenHeight is 1080 workRectWidth is 1920 workRectHeight is 1040
+2016-05-04 14:43:23 [] [info] [INFO] - QTInput::ReadConfFile be called, the user input a custom configure file
+2016-05-04 14:43:23 [] [info] [INFO] - Start read config data
+2016-05-04 14:43:23 [] [info] [INFO] - the HelloWorld::createGrid be called, the args is 238 454 40 40 0
+2016-05-04 14:43:23 [] [info] [INFO] - addConsoleInfo be Called, the arg is 创建的网格信息:row:238 col:454, width:40 height:40
+2016-05-04 14:43:23 [] [info] [INFO] - the ForeManager::setOpenState be called, the alllayer openState is 1
+2016-05-04 14:43:23 [] [info] [INFO] - Start read Resource Data
+2016-05-04 14:43:23 [] [info] [INFO] - in QTInput::ReadConfFile, start read resource files
+2016-05-04 14:43:31 [] [info] [INFO] - in QTInput::ReadConfFile, start read exteral files
+2016-05-04 14:43:31 [] [info] [INFO] - in QTInput::ReadConfFile, start read frame files
+2016-05-04 14:43:31 [] [info] [INFO] - in QTInput::ReadConfFile, start read template files
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:31 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - convertMapToJsonFile::changeFileToUtf8 be call
+2016-05-04 14:43:32 [] [info] [INFO] - Start read Tiles Data
+2016-05-04 14:43:32 [] [info] [INFO] - in QTInput::ReadConfFile, start read block array
+2016-05-04 14:43:34 [] [info] [INFO] - Start read Layers Data
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg 1
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 0 the loop index is 0 the layer name is d_bg
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree5 3
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg_ layerd_bg
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 1 the loop index is 1 the layer name is d_tree5
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree5
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree5_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree5_ layerd_tree5
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree4 4
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 2 the loop index is 2 the layer name is d_tree4
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree4
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree4_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree4_ layerd_tree4
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree3 5
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 3 the loop index is 3 the layer name is d_tree3
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree3
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree3_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree3_ layerd_tree3
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree2 6
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 4 the loop index is 4 the layer name is d_tree2
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree2
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree2_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree1 7
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree2_ layerd_tree2
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 5 the loop index is 5 the layer name is d_tree1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree1
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree1_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree1_ layerd_tree1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_tree-1 8
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 6 the loop index is 6 the layer name is d_tree-1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_tree-1
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_tree-1_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_tree-1_ layerd_tree-1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_tree-2 9
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 7 the loop index is 7 the layer name is s_tree-2
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_tree-2
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_tree-2_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg-2 10
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_tree-2_ layers_tree-2
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 8 the loop index is 8 the layer name is s_bg-2
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg-2
+2016-05-04 14:43:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:34 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:34 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg-2_ ../Resources/dynamic_texture filelist size is 12
+2016-05-04 14:43:34 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg-2_ layers_bg-2
+2016-05-04 14:43:34 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg-1 10
+2016-05-04 14:43:34 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 9 the loop index is 9 the layer name is s_bg-1
+2016-05-04 14:43:35 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg-1
+2016-05-04 14:43:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:35 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg-1_ ../Resources/dynamic_texture filelist size is 6
+2016-05-04 14:43:35 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg-1_ layers_bg-1
+2016-05-04 14:43:35 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg1 11
+2016-05-04 14:43:35 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 10 the loop index is 10 the layer name is s_bg1
+2016-05-04 14:43:35 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg1
+2016-05-04 14:43:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:35 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:36 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:40 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg1_ ../Resources/dynamic_texture filelist size is 432
+2016-05-04 14:43:40 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg1_ layers_bg1
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg2 12
+2016-05-04 14:43:40 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 11 the loop index is 11 the layer name is s_bg2
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg2
+2016-05-04 14:43:40 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg2_ ../Resources/dynamic_texture filelist size is 51
+2016-05-04 14:43:40 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg2_ layers_bg2
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-5 13
+2016-05-04 14:43:40 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 12 the loop index is 12 the layer name is s_bg3_-5
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-5
+2016-05-04 14:43:40 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-5_ ../Resources/dynamic_texture filelist size is 25
+2016-05-04 14:43:40 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-5_ layers_bg3_-5
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg1 14
+2016-05-04 14:43:40 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 13 the loop index is 13 the layer name is d_bg1
+2016-05-04 14:43:40 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg1
+2016-05-04 14:43:41 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg1_ ../Resources/dynamic_texture filelist size is 8
+2016-05-04 14:43:41 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg1_ layerd_bg1
+2016-05-04 14:43:41 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-4 14
+2016-05-04 14:43:41 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 14 the loop index is 14 the layer name is s_bg3_-4
+2016-05-04 14:43:41 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-4
+2016-05-04 14:43:41 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:41 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:42 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-4_ ../Resources/dynamic_texture filelist size is 27
+2016-05-04 14:43:42 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-4_ layers_bg3_-4
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-3 14
+2016-05-04 14:43:42 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 15 the loop index is 15 the layer name is s_bg3_-3
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-3
+2016-05-04 14:43:42 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:42 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-3_ ../Resources/dynamic_texture filelist size is 48
+2016-05-04 14:43:42 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-3_ layers_bg3_-3
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-2 14
+2016-05-04 14:43:42 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 16 the loop index is 16 the layer name is s_bg3_-2
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-2
+2016-05-04 14:43:42 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-2_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:42 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-2_ layers_bg3_-2
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_-1 15
+2016-05-04 14:43:42 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 17 the loop index is 17 the layer name is s_bg3_-1
+2016-05-04 14:43:42 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_-1
+2016-05-04 14:43:42 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_-1_ ../Resources/dynamic_texture filelist size is 81
+2016-05-04 14:43:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_-1_ layers_bg3_-1
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_1 16
+2016-05-04 14:43:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 18 the loop index is 18 the layer name is s_bg3_1
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_1
+2016-05-04 14:43:43 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_1_ ../Resources/dynamic_texture filelist size is 15
+2016-05-04 14:43:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_1_ layers_bg3_1
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows 17
+2016-05-04 14:43:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 19 the loop index is 19 the layer name is s_shadows
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows
+2016-05-04 14:43:43 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows_ ../Resources/dynamic_texture filelist size is 13
+2016-05-04 14:43:43 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows_ layers_shadows
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows-2 18
+2016-05-04 14:43:43 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 20 the loop index is 20 the layer name is s_shadows-2
+2016-05-04 14:43:43 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows-2
+2016-05-04 14:43:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows-2_ ../Resources/dynamic_texture filelist size is 10
+2016-05-04 14:43:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows-2_ layers_shadows-2
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows-3 19
+2016-05-04 14:43:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 21 the loop index is 21 the layer name is s_shadows-3
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows-3
+2016-05-04 14:43:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows-3_ ../Resources/dynamic_texture filelist size is 8
+2016-05-04 14:43:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows-3_ layers_shadows-3
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_shadows-4 19
+2016-05-04 14:43:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 22 the loop index is 22 the layer name is s_shadows-4
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_shadows-4
+2016-05-04 14:43:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_shadows-4_ ../Resources/dynamic_texture filelist size is 4
+2016-05-04 14:43:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_shadows-4_ layers_shadows-4
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_2 20
+2016-05-04 14:43:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 23 the loop index is 23 the layer name is s_bg3_2
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_2
+2016-05-04 14:43:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_2_ ../Resources/dynamic_texture filelist size is 12
+2016-05-04 14:43:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_2_ layers_bg3_2
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg3_3 20
+2016-05-04 14:43:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 24 the loop index is 24 the layer name is s_bg3_3
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg3_3
+2016-05-04 14:43:44 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:44 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg3_3_ ../Resources/dynamic_texture filelist size is 3
+2016-05-04 14:43:44 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg3_3_ layers_bg3_3
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_halo 21
+2016-05-04 14:43:44 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 25 the loop index is 25 the layer name is s_halo
+2016-05-04 14:43:44 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_halo
+2016-05-04 14:43:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:45 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_halo_ ../Resources/dynamic_texture filelist size is 18
+2016-05-04 14:43:45 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_halo_ layers_halo
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg4_-2 22
+2016-05-04 14:43:45 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 26 the loop index is 26 the layer name is s_bg4_-2
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg4_-2
+2016-05-04 14:43:45 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg4_-2_ ../Resources/dynamic_texture filelist size is 2
+2016-05-04 14:43:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:45 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg4_-2_ layers_bg4_-2
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg4_-1 23
+2016-05-04 14:43:45 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 27 the loop index is 27 the layer name is s_bg4_-1
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg4_-1
+2016-05-04 14:43:45 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg4_-1_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:45 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg4_-1_ layers_bg4_-1
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg4 24
+2016-05-04 14:43:45 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 28 the loop index is 28 the layer name is s_bg4
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg4
+2016-05-04 14:43:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:45 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg4_ ../Resources/dynamic_texture filelist size is 36
+2016-05-04 14:43:45 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg4_ layers_bg4
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_bg5 25
+2016-05-04 14:43:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:45 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 29 the loop index is 29 the layer name is s_bg5
+2016-05-04 14:43:45 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_bg5
+2016-05-04 14:43:45 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:46 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_bg5_ ../Resources/dynamic_texture filelist size is 69
+2016-05-04 14:43:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_bg5_ layers_bg5
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_platform 26
+2016-05-04 14:43:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 30 the loop index is 30 the layer name is s_platform
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_platform
+2016-05-04 14:43:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_platform_ ../Resources/dynamic_texture filelist size is 34
+2016-05-04 14:43:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_platform_ layers_platform
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_CircularSaw 26
+2016-05-04 14:43:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 31 the loop index is 31 the layer name is d_CircularSaw
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_CircularSaw
+2016-05-04 14:43:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_CircularSaw_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Sickle 27
+2016-05-04 14:43:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_CircularSaw_ layerd_CircularSaw
+2016-05-04 14:43:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 32 the loop index is 32 the layer name is d_Sickle
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Sickle
+2016-05-04 14:43:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Sickle_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Sickle_ layerd_Sickle
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_SpikeTrap 28
+2016-05-04 14:43:46 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 33 the loop index is 33 the layer name is d_SpikeTrap
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_SpikeTrap
+2016-05-04 14:43:46 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_SpikeTrap_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:46 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_DoorSwitch 28
+2016-05-04 14:43:46 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_SpikeTrap_ layerd_SpikeTrap
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 34 the loop index is 34 the layer name is d_DoorSwitch
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_DoorSwitch
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_DoorSwitch_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_DoorSwitch_ layerd_DoorSwitch
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_DoorSwitchWrench 29
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 35 the loop index is 35 the layer name is d_DoorSwitchWrench
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_DoorSwitchWrench
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_DoorSwitchWrench_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_StaticSpike 29
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_DoorSwitchWrench_ layerd_DoorSwitchWrench
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 36 the loop index is 36 the layer name is d_StaticSpike
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_StaticSpike
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_StaticSpike_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_StaticSpike_ layerd_StaticSpike
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_FlameThrower 29
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 37 the loop index is 37 the layer name is d_FlameThrower
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_FlameThrower
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_FlameThrower_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_TreasureChest 29
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_FlameThrower_ layerd_FlameThrower
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 38 the loop index is 38 the layer name is d_TreasureChest
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_TreasureChest
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_TreasureChest_ ../Resources/dynamic_texture filelist size is 5
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_TreasureChest_ layerd_TreasureChest
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is actors_0 29
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 39 the loop index is 39 the layer name is actors_0
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is actors_0
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is actors_0_ ../Resources/dynamic_texture filelist size is 4
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:actors_0_ layeractors_0
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg2 29
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 40 the loop index is 40 the layer name is d_bg2
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg2
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg2_ ../Resources/dynamic_texture filelist size is 3
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is __backEffect 30
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg2_ layerd_bg2
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 41 the loop index is 41 the layer name is __backEffect
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is __backEffect
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_LanceWarrior 30
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 42 the loop index is 42 the layer name is d_LanceWarrior
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_LanceWarrior
+2016-05-04 14:43:47 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_LanceWarrior_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:47 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:47 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_LanceWarrior_ layerd_LanceWarrior
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Slime 30
+2016-05-04 14:43:47 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 43 the loop index is 43 the layer name is d_Slime
+2016-05-04 14:43:47 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Slime
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Slime_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_SkeletonArcher 30
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Slime_ layerd_Slime
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 44 the loop index is 44 the layer name is d_SkeletonArcher
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_SkeletonArcher
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_SkeletonArcher_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Zombie 30
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_SkeletonArcher_ layerd_SkeletonArcher
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 45 the loop index is 45 the layer name is d_Zombie
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Zombie
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Zombie_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Skeleton 30
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Zombie_ layerd_Zombie
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 46 the loop index is 46 the layer name is d_Skeleton
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Skeleton
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Skeleton_ ../Resources/dynamic_texture filelist size is 4
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Skeleton_ layerd_Skeleton
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Gargoyle 30
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 47 the loop index is 47 the layer name is d_Gargoyle
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Gargoyle
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Gargoyle_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_EvilCat 30
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Gargoyle_ layerd_Gargoyle
+2016-05-04 14:43:48 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 48 the loop index is 48 the layer name is d_EvilCat
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_EvilCat
+2016-05-04 14:43:48 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_EvilCat_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_Player 30
+2016-05-04 14:43:48 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_EvilCat_ layerd_EvilCat
+2016-05-04 14:43:48 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 49 the loop index is 49 the layer name is d_Player
+2016-05-04 14:43:48 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_Player
+2016-05-04 14:43:49 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_Player_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is __frontEffect 31
+2016-05-04 14:43:49 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_Player_ layerd_Player
+2016-05-04 14:43:49 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 50 the loop index is 50 the layer name is __frontEffect
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is __frontEffect
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_bg3 31
+2016-05-04 14:43:49 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 51 the loop index is 51 the layer name is d_bg3
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_bg3
+2016-05-04 14:43:49 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_bg3_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:49 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_bg3_ layerd_bg3
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg1 31
+2016-05-04 14:43:49 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 52 the loop index is 52 the layer name is s_fg1
+2016-05-04 14:43:49 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg1
+2016-05-04 14:43:49 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:49 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:49 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:49 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:49 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg1_ ../Resources/dynamic_texture filelist size is 253
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg1_ layers_fg1
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg2 32
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 53 the loop index is 53 the layer name is s_fg2
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg2
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg2_ ../Resources/dynamic_texture filelist size is 19
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg2_ layers_fg2
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg3 33
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 54 the loop index is 54 the layer name is s_fg3
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg3
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg3_ ../Resources/dynamic_texture filelist size is 6
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg3_ layers_fg3
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg2_1 34
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 55 the loop index is 55 the layer name is s_fg2_1
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg2_1
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg2_1_ ../Resources/dynamic_texture filelist size is 4
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg2_2 34
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg2_1_ layers_fg2_1
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 56 the loop index is 56 the layer name is s_fg2_2
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg2_2
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg2_2_ ../Resources/dynamic_texture filelist size is 2
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg2_2_ layers_fg2_2
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg4 34
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 57 the loop index is 57 the layer name is s_fg4
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg4
+2016-05-04 14:43:54 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg4_ ../Resources/dynamic_texture filelist size is 7
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg4_ layers_fg4
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg5 36
+2016-05-04 14:43:54 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:54 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 58 the loop index is 58 the layer name is s_fg5
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg5
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg5_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is s_fg6 37
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg5_ layers_fg5
+2016-05-04 14:43:54 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:54 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 59 the loop index is 59 the layer name is s_fg6
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is s_fg6
+2016-05-04 14:43:54 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is s_fg6_ ../Resources/dynamic_texture filelist size is 2
+2016-05-04 14:43:54 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:s_fg6_ layers_fg6
+2016-05-04 14:43:54 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_RotatingBlade 37
+2016-05-04 14:43:55 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 60 the loop index is 60 the layer name is d_RotatingBlade
+2016-05-04 14:43:55 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_RotatingBlade
+2016-05-04 14:43:55 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_RotatingBlade_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:55 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_RotatingBlade_ layerd_RotatingBlade
+2016-05-04 14:43:55 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_SkullGhost 37
+2016-05-04 14:43:55 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 61 the loop index is 61 the layer name is d_SkullGhost
+2016-05-04 14:43:55 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_SkullGhost
+2016-05-04 14:43:55 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_SkullGhost_ ../Resources/dynamic_texture filelist size is 1
+2016-05-04 14:43:55 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_SkullGhost_ layerd_SkullGhost
+2016-05-04 14:43:55 [] [info] [INFO] - the HelloWorld::addForeImageLayer be called, the args is d_fg1 37
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - the QTInput::ReadConfFile be called, start input imageLayer, the layerIndex is 62 the loop index is 62 the layer name is d_fg1
+2016-05-04 14:43:55 [] [info] [INFO] - the HelloWorld::getLayerFromForeManager be called, the args is d_fg1
+2016-05-04 14:43:55 [] [info] [INFO] - the TexturePackerView::PackerAsyn be called, the args is d_fg1_ ../Resources/dynamic_texture filelist size is 2
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - the ForeManager::setOpenState be called, the alllayer openState is 0
+2016-05-04 14:43:55 [] [info] [INFO] - the RunTimePackerThread::runPacker be called, the args is dir:../Resources/dynamic_texture name:d_fg1_ layerd_fg1
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree5
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree4
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_tree-1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_tree-2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg-2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg-1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-5
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-4
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_-1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows-2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows-3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_shadows-4
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg3_3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_halo
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg4_-2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg4_-1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg4
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg5
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_platform
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_CircularSaw
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Sickle
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_SpikeTrap
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_DoorSwitch
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_DoorSwitchWrench
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_StaticSpike
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_FlameThrower
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_TreasureChest
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is actors_0
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_LanceWarrior
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Slime
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_SkeletonArcher
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Zombie
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Skeleton
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Gargoyle
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_EvilCat
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_Player
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_bg3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg2
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg3
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg2_1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg2_2
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg4
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg5
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg6
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_RotatingBlade
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_SkullGhost
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:55 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is d_fg1
+2016-05-04 14:43:55 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 45
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 37
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 29
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 21
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 18
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 15
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 15
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 326
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 303
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 942
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 444
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 13
+2016-05-04 14:43:56 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:56 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1661
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 537
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 5
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 896
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 200
+2016-05-04 14:43:57 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 182
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 237
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 85
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 40
+2016-05-04 14:43:57 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:57 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 285
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 90
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 182
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 16
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 496
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 660
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 294
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 7
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 13
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 13
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 6
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 13
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 6
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:58 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:58 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 9
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 114
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 1
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 10
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 234
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 10
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 30
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 71
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 2
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 3
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 5
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:43:59 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 4
+2016-05-04 14:43:59 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_bg1
+2016-05-04 14:43:59 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:44:00 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:44:00 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 9696
+2016-05-04 14:44:01 [] [info] [INFO] - the ImageSpriteLayer::NeedUpdateSprite be called
+2016-05-04 14:44:01 [] [info] [INFO] - the ImageSpriteLayer::changeAllSpriteToBatch be called, the count is 1 this layer name is s_fg1
+2016-05-04 14:44:01 [] [info] [INFO] - in changeAllSpriteToBatch setImageIndex OK
+2016-05-04 14:44:01 [] [info] [INFO] - in changeAllSpriteToBatch createTextureManager OK
+2016-05-04 14:44:01 [] [info] [INFO] - In changeAllSpriteToBatch, start replace sprite texture, the sprite count is 5162
+2016-05-04 14:44:03 [] [info] [INFO] - the QTEditor::on_actionOutputBinary_triggered be called
+2016-05-04 14:44:16 [] [info] [INFO] - the HelloWorld::getAllImage be called
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputFileBinary be called, the args is C:/Users/lswzz/Desktop/testLevel2/ssss.lv
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputGrids be called
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::getGridNum be called, the getGridNum function are ended, the args size_Box is 20243 size_Italic is 655 size_Fluid is 0
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::getGridData be called finished, the Vec_Box size is 20243 the Vec_Italic size is 655 the Vec_Fluid size is 0
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::getByteArrayData be called, the args num_Box is 20243 num_Italic is 655 num_Fluid is 0
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 2
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputTexs be called, the output data dynamic_Count is 1 static_Count is 5
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 3
+2016-05-04 14:44:16 [] [info] [INFO] - the HelloWorld::hasAnimationSprite() be called
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 4
+2016-05-04 14:44:16 [] [info] [INFO] - the QTOutput::OutputLayers be called, the output layer count is 32
+2016-05-04 14:44:21 [] [info] [INFO] - the QTOutput::OutputFileBinary output step is 5
+2016-05-04 14:44:21 [] [info] [INFO] - the QTOutput::OutputFileBinary successed
+2016-05-04 14:44:21 [] [info] [INFO] - addConsoleInfo be Called, the arg is 导出成功:导出文件名为:C:/Users/lswzz/Desktop/testLevel2/ssss.lv

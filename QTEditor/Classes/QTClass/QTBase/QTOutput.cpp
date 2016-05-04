@@ -952,6 +952,7 @@ bool QTOutput::OutputJsonConf(QString file, bool outputimage)
 			convert->startConvert();
 			convert->deleteData();
 			delete convert;
+			convertMapToJsonFile::changeFileToUtf8(resourceName);
 		}
 		else{
 			writeResourceData(document, outputimage);
@@ -968,6 +969,7 @@ bool QTOutput::OutputJsonConf(QString file, bool outputimage)
 			convert->startConvert();
 			convert->deleteData();
 			delete convert;
+			convertMapToJsonFile::changeFileToUtf8(tilesName);
 		}
 		else{
 			writeTilesData(data, outputimage);
@@ -1478,6 +1480,7 @@ void QTOutput::writeAllLayerFilesData(QVariantMap& document, bool outputimage)
 		convert->startConvert();
 		convert->deleteData();
 		delete convert;
+		convertMapToJsonFile::changeFileToUtf8(filename);
 	}
 	MyLogger::getInstance()->addInfo("all layer data insert finished");
 	document.insert("layerFileList", allLayerFile);

@@ -43,7 +43,7 @@ QByteArray* convertMapToJsonFile::startConvert()
 
 QByteArray* convertMapToJsonFile::convertMap(QByteArray* ba, QVariantMap* map)
 {
-	MyLogger::getInstance()->addInfo("the convertMapToJsonFile::convertMap be call, the map size is " + QString::number(map->size()));
+	//MyLogger::getInstance()->addInfo("the convertMapToJsonFile::convertMap be call, the map size is " + QString::number(map->size()));
 	if (m_array->size() >= MAX_BA_SIZE){
 		writeToFile();
 	}
@@ -106,7 +106,7 @@ QByteArray* convertMapToJsonFile::convertMap(QByteArray* ba, QVariantMap* map)
 
 QByteArray* convertMapToJsonFile::convertList(QByteArray* ba, QVariantList* list)
 {
-	MyLogger::getInstance()->addInfo("the convertMapToJsonFile::convertList be called, the list size is " + QString::number(list->size()));
+	//MyLogger::getInstance()->addInfo("the convertMapToJsonFile::convertList be called, the list size is " + QString::number(list->size()));
 	if (m_array->size() >= MAX_BA_SIZE){
 		writeToFile();
 	}

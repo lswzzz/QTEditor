@@ -79,6 +79,12 @@ QString ImgTransPath::getRealImageName(ImageSprite* sprite)
 	return getRealImageName(index);
 }
 
+QString ImgTransPath::getOutputRelativeImageName(ImageSprite* sprite)
+{
+	int index = sprite->getImageIndex();
+	return getRelativePathByIndex(index).section("/", 1);
+}
+
 QString ImgTransPath::getRealImagePath(ImageSprite* sprite)
 {
 	int index = sprite->getImageIndex();

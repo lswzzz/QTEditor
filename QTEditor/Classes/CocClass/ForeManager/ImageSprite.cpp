@@ -67,7 +67,6 @@ ImageSprite::ImageSprite()
 	canAutoResetResName = true;
 	//禁止合并 在导出的时候是否合并
 	dontMerge = false;
-	
 }
 
 ImageSprite::~ImageSprite()
